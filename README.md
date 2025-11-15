@@ -15,6 +15,24 @@ Student at PSG College of technology
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Shyam-GK?theme=dark&font=Port%20Lligat%20Slab&ext=heatmap)
 
 ---
+### 📊 GitHub Stats
+![Shyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shyam-GK&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam-GK&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shyam-GK&theme=tokyonight)
+
+---
+### 🐍 GitHub Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/Shyam-GK/Shyam-GK/output/github-contribution-grid-snake-dark.svg)
+
+---
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shyam-GK&theme=radical&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+### 👀 Profile Views
+<img src="https://komarev.com/ghpvc/?username=Shyam-GK&label=Profile%20views&color=0e75b6&style=flat" />
+
+---
 <h2 align="left"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect with me:</h2>
 <p align="left">
 <a href="[https://linkedin.com/in/shyamgk](https://www.linkedin.com/in/shyam-gk-b1b50931b/)" target="blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
